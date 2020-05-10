@@ -1,0 +1,13 @@
+header {
+    background-color: rgb(24, 3, 116);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+#first-col {
+    background-color: rgb(209, 196, 196);
+}
+
+#current-weather {
+    border: solid 1px black;
+}
